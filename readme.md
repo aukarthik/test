@@ -1,2 +1,2 @@
-#This is a dummay repositary which is used for testing my skills in the github page
+#This is a dummy repository which is used for testing my skills on the GitHub page
 
